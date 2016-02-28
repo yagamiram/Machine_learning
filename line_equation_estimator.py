@@ -1,6 +1,6 @@
 '''
 This python file will return a line equation (slope, intercept) with less error.
-
+To understand the concept, check the notes or the below link.
 Link: http://jeremykun.com/2013/08/18/linear-regression/
 '''
 avg = lambda L: 1.0* sum(L)/len(L)
