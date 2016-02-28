@@ -8,6 +8,13 @@ Unlike other algorithms, KNN is different.
 k-nearest-neighbors and the axiom of neighborliness allow for datasets with many different geometric structures.
 Its not needed to be linearly seperable all the time. 
 
+Beasic you have to use a metric in KNN algorithm
+Most famous matrics are:
+1. Euclidean distane
+2. Manhattan distance
+3. Dynamic time wrapping [ compares two sequences of differing lengths for similarity.]
+Link: http://jeremykun.com/2012/07/25/dynamic-time-warping/
+
 Example: 
 Think of datasets as concentric circles.
 
