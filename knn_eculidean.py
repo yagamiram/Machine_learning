@@ -1,6 +1,18 @@
 '''
 KNN Algorithm : Very simple algorithm if you use euclidean distance
 
+Usually machine learning algorithms does classification the usually classification question is
+“is the data linearly separable?”
+
+Unlike other algorithms, KNN is different. 
+k-nearest-neighbors and the axiom of neighborliness allow for datasets with many different geometric structures.
+Its not needed to be linearly seperable all the time. 
+
+Example: 
+Think of datasets as concentric circles.
+
+Link: https://github.com/j2kun/knn/blob/master/concentric-circles-knn.png
+
 The problem is to find in which class a data point falls ?
 
 you have to build a training model from a training data set and using that model
