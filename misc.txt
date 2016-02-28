@@ -1,0 +1,5 @@
+Cheat sheet for famous ML alorithms in Python and R:
+http://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/
+
+Very nice link to understand how math is used in programming. Covered variety to topics
+http://jeremykun.com/program-gallery/
