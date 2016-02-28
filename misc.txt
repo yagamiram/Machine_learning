@@ -3,3 +3,6 @@ http://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-alg
 
 Very nice link to understand how math is used in programming. Covered variety to topics
 http://jeremykun.com/program-gallery/
+
+A visual introduction to machine learning:
+http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
