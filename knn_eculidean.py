@@ -18,6 +18,8 @@ Here in this code no training model is built.
 Randomly points are picked and labeled to either class 0 or class 1.
 To pick the points randomly gaussian distribution is used.
 Then to get the K smallest element heap is used.
+
+Code copied from: http://jeremykun.com/2012/08/26/k-nearest-neighbors-and-handwritten-digit-classification/
 '''
 import math
 import heapq
