@@ -32,6 +32,9 @@ To pick the points randomly gaussian distribution is used.
 Then to get the K smallest element heap is used.
 
 Code copied from: http://jeremykun.com/2012/08/26/k-nearest-neighbors-and-handwritten-digit-classification/
+
+To know about KNN for hand written digits: https://github.com/j2kun/knn/blob/master/knn-digits.py
+The description for the code is : http://jeremykun.com/2012/08/26/k-nearest-neighbors-and-handwritten-digit-classification/
 '''
 import math
 import heapq
